@@ -6,7 +6,7 @@
 
 https://destefani.github.io/publicai/
 
-# My Blog
+# Public AI
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
