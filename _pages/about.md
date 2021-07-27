@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-The Public Digital Infrastructure Laboratory
+The Digital Public Infrastructure Laboratory
